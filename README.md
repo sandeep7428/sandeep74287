@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep7428&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep7428" /> </p>
 
-- 🌱 I’m currently learning full stack developer with java **html,css,ajava,js,mysql**
+- 🌱 I’m currently learning full stack developer with java 
 
 - 📫 How to reach me **sandeepjagtap2112@gmail.com**
 
